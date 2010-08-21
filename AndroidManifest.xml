@@ -12,8 +12,11 @@
                 <action android:name="org.adw.launcher.THEMES" />
                 <category android:name="android.intent.category.DEFAULT" />                
             </intent-filter>
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>              
         </activity>
-
     </application>
 	<uses-sdk android:minSdkVersion="4"/>
 

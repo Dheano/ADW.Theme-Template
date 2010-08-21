@@ -48,5 +48,8 @@ Usage instructions:
 			    	<item>my_cool_icon</item>
 			    </string-array>
 			</resources>
-		
-9.-Export the apk from eclipse as every other android app.
+
+9.-To use a custom font on your theme, put the TTF file in res/assets/themefont.ttf.
+    Make sure the font is working, some BIG (in filesize) fonts or bad encoded fonts can cause problems.
+     		
+10.-Export the apk from eclipse as every other android app.
