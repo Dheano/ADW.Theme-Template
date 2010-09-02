@@ -31,5 +31,5 @@ Maybe they could add some &lt;a href="http://www.google.com">links&lt;/a> too.</
 <!-- config_ab_scalefactor is a float value between 0.1 and 0.8. Set here the default .X-->
 <integer name="config_ab_scalefactor">6</integer>
 <!-- Force the theme to enable/disable the secondary actionbuttons -->
-<bool name="secondary_ab">true</bool>
+<bool name="secondary_ab">false</bool>
 </resources>
