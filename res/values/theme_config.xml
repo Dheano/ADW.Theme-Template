@@ -28,4 +28,8 @@ Maybe they could add some &lt;a href="http://www.google.com">links&lt;/a> too.</
 <bool name="config_desktop_indicator">true</bool>
 <!-- 1=top dots, 2=top slider, 3=bottom slider -->
 <string name="config_desktop_indicator_type">2</string>
+<!-- config_ab_scalefactor is a float value between 0.1 and 0.8. Set here the default .X-->
+<integer name="config_ab_scalefactor">6</integer>
+<!-- Force the theme to enable/disable the secondary actionbuttons -->
+<bool name="secondary_ab">true</bool>
 </resources>
